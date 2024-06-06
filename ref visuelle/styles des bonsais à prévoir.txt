@@ -1,0 +1,20 @@
+style: 
+	 Balai (Hokidachi)
+	Droit formel (Chokkan)
+	Droit informel (Moyogi)
+	Penché (Shakan)
+	Cascade (Kengai)
+	Semi-cascade (Han-kengai)
+	Lettré (Bunjingi)
+	Battu par les vents (Fukinagashi)
+	Double tronc (Sokan)
+	Troncs multiples (Kabudachi)
+	Forêt (Yose-ue)
+	Planté sur une roche (Seki-joju)
+	Planté dans une roche (Ishisuki)
+	Radeau (Ikadabuki)
+	Tronc écorcé / creusé (Sharimiki)
+	
+taille: petit/moyen/grand
+essence: feuillu/résineux (chene, erable, pin....) utiliser pour questionner l'essence et la couleur principale du feuillage ou alors palette de couleur
+pot: 
